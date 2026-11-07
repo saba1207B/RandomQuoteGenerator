@@ -103,9 +103,9 @@ The following screenshots document the Play Protect installation check observed 
 
 Keep Google Play Protect enabled when installing APKs from outside Google Play.
 
-## 🎯 CodeAlpha Internship
+## 🎯 Project Overview
 
-This project was created as part of the **CodeAlpha App Development Internship**.
+This project was created as part of an **App Development Internship**.
 
 ## 👨‍💻 Developer
 
